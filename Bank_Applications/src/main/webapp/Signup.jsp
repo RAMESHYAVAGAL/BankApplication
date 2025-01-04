@@ -10,7 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(135deg, #ff7e5f, #feb47b);
+            background-color: white;
             font-family: 'Arial', sans-serif;
             color: #ffffff;
             height: 100vh;
@@ -22,12 +22,14 @@
         .card {
             border-radius: 12px;
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            border: 2px solid black;
         }
 
         .card-header {
             background: linear-gradient(to right, #ff7e5f, #feb47b);
             border-top-left-radius: 12px;
             border-top-right-radius: 12px;
+           
         }
 
         .card-header h3 {
@@ -71,6 +73,7 @@
             margin-bottom: 20px;
             border-radius: 8px;
         }
+        
     </style>
 </head>
 <body>
