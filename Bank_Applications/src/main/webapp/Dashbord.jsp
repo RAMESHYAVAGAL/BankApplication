@@ -186,7 +186,6 @@
             <a class="nav-link" href="TransferAmount.jsp"><i class="bi bi-arrow-left-right"></i> Transfer Amount</a>
             <a class="nav-link" href="UpdateAccount.jsp"><i class="bi bi-graph-up"></i> Update Account</a>
             <a class="nav-link" href="ResetPin.jsp"><i class="bi bi-credit-card"></i> Reset Pin</a>
-            
         </nav>
     </div>
 <%}else{%>
