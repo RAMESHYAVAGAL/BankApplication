@@ -297,7 +297,7 @@
 
     <!-- Footer -->
     <footer>
-        © 2024 State Bank of India. (Developed by @Shridhar) All rights reserved.
+        © 2024 State Bank of India. (Developed by @Ramesh) All rights reserved.
     </footer>
 
     <!-- Bootstrap Icons -->
